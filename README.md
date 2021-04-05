@@ -5,8 +5,8 @@
 # apt install python2 
 # apt install git 
 # pip2 install requests mechanize 
-# git clone https://github.com/Aryanjan002/Friend_hack
-# cd Friend_hack
-# python2 Aryanhacker.py 
+# git c
+# 
+
 
 # join my telegram channel https://t.me/joinchat/RHNshhMEJyM0TRzk
